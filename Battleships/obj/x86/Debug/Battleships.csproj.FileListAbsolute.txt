@@ -1,0 +1,16 @@
+D:\lap_trinh_python\battleships-master\Battleships\bin\Debug\Battleships.exe
+D:\lap_trinh_python\battleships-master\Battleships\bin\Debug\Battleships.pdb
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.csprojResolveAssemblyReference.cache
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.CreditsForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.MainGameForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.PasswordCheckForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.ShipDeploymentForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.MainMenuForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.MultiplayerSettingsForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.Properties.Resources.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.SingleplayerSettingsForm.resources
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.csproj.GenerateResource.Cache
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.exe
+D:\lap_trinh_python\battleships-master\Battleships\obj\x86\Debug\Battleships.pdb
+D:\Lap_trinh_game\battleships-master\Battleships\obj\x86\Debug\Battleships.exe
+D:\Lap_trinh_game\battleships-master\Battleships\obj\x86\Debug\Battleships.pdb
